@@ -1,0 +1,1 @@
+Store your GHE credentials in this file in format USERID:PASSWORD or USERID:PERSONAL-ACCESS-TOKEN
